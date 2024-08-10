@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Lycanthropy, a SWE from KCMO. <br><br>🔭 I'm currently working on [a Rails UI Framework](https://github.com/MSILycanthropy/tracks_ui)<br>🌱 I'm currently learning [fun hacker stuff](https://pwnable.kr/)<br>💬 Ask me about Rails, Ruby, Rust and Math
+Hi, I'm Lycanthropy, a SWE from KCMO. <br><br>🔭 I'm currently.. tinkering on some random stuff<br>💬 Ask me about Rails, Ruby, Rust and Math
 
 
 # 💻 Tech I Am Passionate About:
